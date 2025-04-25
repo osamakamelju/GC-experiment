@@ -1,0 +1,14 @@
+/Users/osama/GCTestProject/bin/Debug/net8.0/GCTestProject
+/Users/osama/GCTestProject/bin/Debug/net8.0/GCTestProject.deps.json
+/Users/osama/GCTestProject/bin/Debug/net8.0/GCTestProject.runtimeconfig.json
+/Users/osama/GCTestProject/bin/Debug/net8.0/GCTestProject.dll
+/Users/osama/GCTestProject/bin/Debug/net8.0/GCTestProject.pdb
+/Users/osama/GCTestProject/obj/Debug/net8.0/GCTestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osama/GCTestProject/obj/Debug/net8.0/GCTestProject.AssemblyInfoInputs.cache
+/Users/osama/GCTestProject/obj/Debug/net8.0/GCTestProject.AssemblyInfo.cs
+/Users/osama/GCTestProject/obj/Debug/net8.0/GCTestProject.csproj.CoreCompileInputs.cache
+/Users/osama/GCTestProject/obj/Debug/net8.0/GCTestProject.dll
+/Users/osama/GCTestProject/obj/Debug/net8.0/refint/GCTestProject.dll
+/Users/osama/GCTestProject/obj/Debug/net8.0/GCTestProject.pdb
+/Users/osama/GCTestProject/obj/Debug/net8.0/GCTestProject.genruntimeconfig.cache
+/Users/osama/GCTestProject/obj/Debug/net8.0/ref/GCTestProject.dll
